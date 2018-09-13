@@ -1,2 +1,2 @@
 # datascience-kaggle
-Kernels and dataset practice solutions
+Kaggle Kernels and dataset practice solutions in R.
